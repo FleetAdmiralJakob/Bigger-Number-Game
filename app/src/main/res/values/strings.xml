@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Bigger Number Game</string>
+
+    <string name="language">Language</string>
+    <string name="language_de">Sprache</string>
+
+    <string name="highscore">Highscore</string>
+
+    <string name="score">Score:</string>
+
+    <string name="description">Press the button which contains the larger number!</string>
+    <string name="description_de">Drücke den Knopf mit der größeren Zahl!</string>
+
+    <string name="title">Number Guessing Game</string>
+    <string name="title_de">Spiel der größeren Zahl</string>
+
 </resources>
